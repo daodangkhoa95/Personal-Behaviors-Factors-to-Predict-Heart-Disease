@@ -3,7 +3,7 @@
 According to the Centers for Disease Control and Prevention (CDC), heart disease is one of the major
 causes of death in the United States for people of all races (African Americans, American Indians and
 Alaska Natives, and Whites). High blood pressure, high cholesterol, and smoking are three major risk
-factors for heart disease that affect over half of all Americans (47 percent).]
+factors for heart disease that affect over half of all Americans (47 percent).
 
 
 
